@@ -1,0 +1,1 @@
+// Pasta para guardar as imagens do projeto

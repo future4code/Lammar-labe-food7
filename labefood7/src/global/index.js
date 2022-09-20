@@ -1,0 +1,1 @@
+// Pasta que guardará o global state
