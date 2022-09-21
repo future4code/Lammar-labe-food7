@@ -1,0 +1,1 @@
+// Pasta para os arquivos que serão constantes dentro da aplicação, como por exemplo : Url padrão

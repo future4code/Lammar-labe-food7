@@ -1,0 +1,1 @@
+// Pasta onde guardaremos todas as requisições, com excessão do get.
